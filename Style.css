@@ -1,15 +1,15 @@
 h1 {
-  color: aquamarine;
+  color: black;
 }
 h2 {
-  color: skyblue;
+  color: maroon;
 }
 p {
-  color: lawngreen
+  color: rgb(155, 19, 19)
 }
 l {
-  color: deeppink
+  color: black
 }
 table{
-  color: blueviolet
+  color: red
 }
