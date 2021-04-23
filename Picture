@@ -1,5 +1,0 @@
-        <picture>
-            <source media="(min-width:500px)" srcset="captains.jpg">
-            <source media="(min-width:400px)" srcset="team_picture.jpg">
-            <img src="football.jpg" alt="Players" style="width:auto;">
-        </picture>
